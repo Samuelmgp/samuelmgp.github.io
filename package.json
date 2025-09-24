@@ -1,5 +1,4 @@
 {
-  "homepage": "https://samuelmgp.github.io/Portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -47,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-scroll": "^1.8.10",
     "gh-pages": "^6.3.0"
   }
 }
